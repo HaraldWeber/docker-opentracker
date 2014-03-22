@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#
+# This script runs the docker-opentracker container and binds the tcp port 6969 to 6969
 
 NAME=$1
 if [[ -z $NAME ]]
