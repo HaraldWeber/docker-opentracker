@@ -1,0 +1,6 @@
+[submodule "libowfat"]
+	path = libowfat
+	url = https://github.com/gebi/libowfat.git
+[submodule "opentracker"]
+	path = opentracker
+	url = git://erdgeist.org/opentracker
